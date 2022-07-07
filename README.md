@@ -1,17 +1,17 @@
 # flat35hd99
 
 - [flat35hd99](#flat35hd99)
-  - [ポートフォリオ](#ポートフォリオ)
-    - [TEDxNagoyaUのウェブページリプレイス](#tedxnagoyauのウェブページリプレイス)
-    - [cache-make](#cache-make)
-    - [openscad-actions](#openscad-actions)
-    - [生物学的構造単位生成器](#生物学的構造単位生成器)
-    - [その他成果物や公開しているもの](#その他成果物や公開しているもの)
-  - [Education](#education)
+- [ポートフォリオ](#ポートフォリオ)
+  - [TEDxNagoyaUのウェブページリプレイス](#tedxnagoyauのウェブページリプレイス)
+  - [cache-make](#cache-make)
+  - [openscad-actions](#openscad-actions)
+  - [生物学的構造単位生成器](#生物学的構造単位生成器)
+  - [その他成果物や公開しているもの](#その他成果物や公開しているもの)
+- [Education](#education)
 
-## ポートフォリオ
+# ポートフォリオ
 
-### TEDxNagoyaUのウェブページリプレイス
+## TEDxNagoyaUのウェブページリプレイス
 
 以前所属していたサークルのウェブページを完全リプレイスしました。
 
@@ -40,7 +40,7 @@
 - 開発・運用が、携わった人のキャリアにプラスにはたらくこと
 - 秋からの開発に際し、夏のイベントの告知を新ウェブページで行えること
 
-### cache-make
+## cache-make
 
 GNU makeはビルド対象物とそのソースファイルのタイムスタンプを比較して、再ビルドが必要か判別します。しかし、GitHub Actionsで利用する場合には、通常の[actions/cache](https://github.com/actions/cache)を使うだけではタイムスタンプ情報が失われてしまうため、全てビルドし直すことになってしまいます。
 
@@ -53,25 +53,25 @@ GNU makeはビルド対象物とそのソースファイルのタイムスタン
 - 開発人数：1人
 - 使用技術：シェルスクリプト, Git
 
-### openscad-actions
+## openscad-actions
 
 OpenSCADはスクリプト言語によってオブジェクトを記述できるCADです。必然的にGitとの親和性が高く、CI/CDしたいと思ったため、GitHub Actionsによる自動ビルドを簡単にできるactionsを作成しました。これまで3回fork,1回PRされている、ニッチなところに刺さるactionsです。
 
 - [リポジトリ](https://github.com/flat35hd99/openscad-actions)
 
-### 生物学的構造単位生成器
+## 生物学的構造単位生成器
 
 JPHACKS 2021というハッカソンで、研究上の課題を解決するために作成しました。
 
 - [リポジトリ](https://github.com/jphacks/d_2110)
 
-### その他成果物や公開しているもの
+## その他成果物や公開しているもの
 
 - [flat35hd99 - GitHub](https://github.com/flat35hd99)
 - [Qiita](https://qiita.com/flat35hd99)
 - [Computational Study on the Thermal Conductivity of a Protein](https://doi.org/10.1021/acs.jpcb.2c00958)
 
-## Education
+# Education
 
 - 名古屋大学理学部物理学科
 - 名古屋大学大学院理学研究科 <- Here
