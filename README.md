@@ -18,8 +18,7 @@
 - リポジトリ([tedxnagoyau/website](https://github.com/tedxnagoyau/website))
 - デモ
   - [現在現役生によって運用されているウェブサイト](https://tedxnagoyau.com/)
-  - [デモサイト](https://demo-tedxnagoya-u.wataru.app)(flat35hd99の最終コミット時点)
-    - [予備リンク](https://fir-tedxnu.web.app/)
+  - [デモサイト](https://fir-tedxnu.web.app/)(flat35hd99の最終コミット時点)
 - 開発期間: 6ヶ月
 - 開発人数：2人（当時）
 - 使用技術：Nuxt, Nuxt Content, Vuetify, Firebase, GitHub Actions
