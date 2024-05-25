@@ -11,4 +11,5 @@
 ## Education
 
 - 名古屋大学理学部物理学科
-- 名古屋大学大学院理学研究科 <- currently
+- 名古屋大学大学院理学研究科
+- freee <- currently
