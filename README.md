@@ -9,8 +9,8 @@
 - [Site-selective heat current analysis of <i>α</i> -helical protein with linear-homopolymer-like model](https://doi.org/10.1063/5.0149362)
 - [Kubernetes環境でのカナリアリリース戦略の実装](https://techblog.yahoo.co.jp/entry/2022121230379883/)
 
-## Education
+## 経歴
 
 - 名古屋大学理学部物理学科
 - 名古屋大学大学院理学研究科
-- freee <- currently
+- フリー株式会社
